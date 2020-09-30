@@ -1,0 +1,25 @@
+#Cached files
+__pycache__/**
+
+#Pictures
+*.png
+
+#Draw.io files
+*.drawio
+
+#Random Files
+*.csv
+*.xlsx
+
+#Word files
+*.docx
+
+#One note files
+*.onetoc2
+*.one
+OneNote_RecycleBin/**
+
+# directories
+/Archive/
+/Wireless Tstat project write-up/
+
